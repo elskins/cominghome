@@ -1,8 +1,9 @@
 {
   "mode":"live",
-  "home":"England",
-  "away":"Brazil",
+  "home":"ENG",
+  "away":"BRA",
   "score":"2-1",
   "time":"84'",
-  "status":"ITS COMING HOME"
+  "status":"SECOND HALF",
+  "event":"goal"
 }
