@@ -1,9 +1,9 @@
 {
-  "mode":"live",
-  "home":"ENG",
-  "away":"BRA",
-  "score":"2-1",
-  "time":"84'",
-  "status":"SECOND HALF",
-  "event":"goal"
+  "mode": "next",
+  "home": "ENG",
+  "away": "TBC",
+  "score": "-",
+  "time": "--",
+  "status": "NO ENGLAND MATCH LIVE",
+  "event": "normal"
 }
