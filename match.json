@@ -2,8 +2,8 @@
   "mode": "next",
   "home": "ENG",
   "away": "TBC",
-  "days": "0",
-  "hours": "0",
-  "status": "NO FIXTURE",
+  "score": "-",
+  "time": "--",
+  "status": "NO ENGLAND MATCH LIVE",
   "event": "normal"
 }
